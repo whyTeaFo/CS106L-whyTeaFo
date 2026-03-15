@@ -1,0 +1,10 @@
+Before submitting this file, make sure that there are no more TODO
+placeholders remaining in the file (and remove this comment too).
+
+Marriage Pact
+-------------
+
+Q1. It is your choice to use either an ordered or unordered set. In a few sentences, what are some of the tradeoffs between the two? Additionally, please give an example (that has not been shown in lecture) of a valid hash function that could be used to hash student names for an unordered set.
+A1. ordered set本质是二分查找树，unordered set运用了哈希函数；unordered set更快，占用内存更多，支持比较运算符，更安全。hash(name) = (Σ(名字字符的ASCII码 * 该字符在姓名中的位置索引) mod Tablesize)
+Q2. Note that we are saving pointers to names in the queue, not names themselves. Why might this be desired in this problem? What happens if the original set where the names are stored goes out of scope and the pointers are referenced?
+A2. names数据很大，传递引用可以减少不必要的复制，提高效率。可能导致未定义的行为，指针指向未分配的内存。
