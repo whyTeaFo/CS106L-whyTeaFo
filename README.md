@@ -8,7 +8,10 @@
 - [Lecture 8:Inheritance ppt笔记](https://blog.csdn.net/2403_89023973/article/details/159053019?spm=1001.2014.3001.5501)
 - [Lecture 9:Class Templates & Const Correctness ppt笔记](https://blog.csdn.net/2403_89023973/article/details/159120702?spm=1001.2014.3001.5501)
 - [Lecture 10:Function Templates ppt笔记](https://blog.csdn.net/2403_89023973/article/details/158975515?spm=1001.2014.3001.5501)
+- [Lecture 11:Functions & Lambdas ppt笔记](https://blog.csdn.net/2403_89023973/article/details/159176144?spm=1001.2014.3001.5501)
+- [Lecture 12:Operator Overloading ppt笔记](https://blog.csdn.net/2403_89023973/article/details/159544091?spm=1001.2014.3001.5501)
 ## Assignment notes
 - [Assignment 1:Simple Enroll 作业](https://blog.csdn.net/2403_89023973/article/details/158850620?spm=1001.2014.3001.5501)
 - [Assignment 2:Marriage Pact 作业](https://blog.csdn.net/2403_89023973/article/details/159086895?spm=1001.2014.3001.5501)
 - [Assignment 3:Make a Class 作业](https://blog.csdn.net/2403_89023973/article/details/159131184?spm=1001.2014.3001.5501)
+- [Assignment 4:Ispell 作业](https://blog.csdn.net/2403_89023973/article/details/159613522?spm=1001.2014.3001.5501)
