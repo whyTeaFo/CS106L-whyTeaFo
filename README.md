@@ -13,6 +13,7 @@
 - [Lecture 13:Special Member Functions ppt笔记](https://blog.csdn.net/2403_89023973/article/details/159639518?spm=1001.2014.3001.5501)
 - [Lecture 14:Move Semantics ppt笔记](https://blog.csdn.net/2403_89023973/article/details/159765421?spm=1001.2014.3001.5502)
 - [Lecture 15:std::optional & Type Safety ppt笔记](https://blog.csdn.net/2403_89023973/article/details/159884677?spm=1001.2014.3001.5502)
+- [Lecture 16:RAII,Smart Pointers, & Building C++ Projects ppt笔记](https://blog.csdn.net/2403_89023973/article/details/159888511?spm=1001.2014.3001.5501)
 ## Assignment notes
 - [Assignment 1:Simple Enroll 作业](https://blog.csdn.net/2403_89023973/article/details/158850620?spm=1001.2014.3001.5501)
 - [Assignment 2:Marriage Pact 作业](https://blog.csdn.net/2403_89023973/article/details/159086895?spm=1001.2014.3001.5501)
@@ -20,3 +21,4 @@
 - [Assignment 4:Ispell 作业](https://blog.csdn.net/2403_89023973/article/details/159613522?spm=1001.2014.3001.5501)
 - [Assignment 5:Treebook 作业](https://blog.csdn.net/2403_89023973/article/details/159654715?spm=1001.2014.3001.5501)
 - [Assignment 6:Explore Courses 作业](https://blog.csdn.net/2403_89023973/article/details/159887038?spm=1001.2014.3001.5502)
+- [Assignment 7:Unique Pointer 作业](https://blog.csdn.net/2403_89023973/article/details/159893759?spm=1001.2014.3001.5501)
